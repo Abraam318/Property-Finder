@@ -1,4 +1,4 @@
-# Property Finder Application
+# Property Finder
 
 ![Property Finder](bg_property_finder.jpg)
 
