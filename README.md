@@ -27,7 +27,7 @@ Welcome to the Property Finder Application! This project was developed as part o
 
 ## Database Schema
 
-[Insert Database Schema Image Here]
+![Schema](schema.jpg)
 
 ## Tables and Descriptions
 
