@@ -71,9 +71,10 @@ Welcome to the Property Finder Application! This project was developed as part o
 
 - **agent**: Contains agent-specific information such as agent ID, SSN, first name, last name, email, and unique phone number.
 
-## Form Usage Instructions
 
-This project includes several forms to interact with the application. Below are the steps for using these forms effectively:
+### [Form Usage Instructions PDF](Form_Usage_Instructions.pdf)
+
+The "Form_Usage_Instructions.pdf" file provides step-by-step guidance on using the forms included in the Property Finder Application. It covers instructions for utilizing different components within the forms, such as checkboxes, radio buttons, triggers, alerts, calculated fields, LOVs, and master-detail forms.
 
 ### Canvas 1:
 - **Check Box**: Use to select multiple options.
