@@ -15,7 +15,7 @@
 
 ## Introduction
 
-Welcome to the Property Finder Application! This project was developed as part of a team assignment to create a comprehensive real estate management system. It manages properties, clients, payments, and more, providing an efficient platform for real estate transactions.
+Welcome to the Property Finder! This project was developed as part of a team assignment to create a comprehensive real estate management system. It manages properties, clients, payments, and more, providing an efficient platform for real estate transactions.
 
 ## Features
 
