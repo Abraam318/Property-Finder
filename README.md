@@ -1,6 +1,6 @@
 # Property Finder Application
 
-![Property Finder](bg_property_finder.png)
+![Property Finder](bg_property_finder.jpg)
 
 ## Table of Contents
 
