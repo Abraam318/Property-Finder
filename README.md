@@ -72,7 +72,7 @@ Welcome to the Property Finder Application! This project was developed as part o
 - **agent**: Contains agent-specific information such as agent ID, SSN, first name, last name, email, and unique phone number.
 
 
-### [Form Usage Instructions](#form-usage-instructions)
+## Form Usage Instructions
 
  [Form Usage Instructions PDF](Form_Usage_Instructions.pdf)
 
